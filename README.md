@@ -3,10 +3,10 @@
 Retail sales performance dashboard built using Power BI with forecasting and business insights.
 
 ## Dashboard Preview
-![Sales Dashboard](Sales dashboard.png)
+! [Sales Dashboard] (Sales dashboard.png)
 
 ## Sales Forecast
-![Sales Forecast](Sales forecast.png)
+! [Sales Forecast] (Sales forecast.png)
 
 ## Key Features
 - Sales KPIs
